@@ -1,4 +1,4 @@
-# Collatz Visualizer
+# Collatz Sequence Plotter
 
 This is a small desktop app that visualizes the Collatz Conjecture. The math rule is pretty simple: if a number is even, you divide it by 2. If it's odd, you multiply it by 3 and add 1. This app takes a number you type in, and then calculates and draws the paths for all numbers from 1 up to that number to see how they behave.
 
