@@ -27,5 +27,4 @@ Then just run the main file:
 python app.py
 ```
 
-## About me
-I'm just someone learning how to program. I like building small, practical projects like this one to practice writing code, figure things out, and get better at development over time.
+
